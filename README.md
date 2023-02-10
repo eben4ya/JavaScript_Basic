@@ -1,2 +1,5 @@
 # JavaScript_Basic
-JavaScript Basic Programming
+
+Coming Soon
+
+#Keep Coding, Stay Awesome !
